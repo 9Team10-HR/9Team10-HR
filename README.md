@@ -1,4 +1,15 @@
-### Hi there 👋
+### const 9Team10-HR = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "English/Bangla",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on shell and python"
+}
 
 <!--
 **9Team10-HR/9Team10-HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
