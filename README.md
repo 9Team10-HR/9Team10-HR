@@ -2,7 +2,7 @@
 #### ME A Termux User
 𝙼𝙴 𝚊 𝚜𝚝𝚞𝚍𝚊𝚗𝚝
 
-Skills: Learning all
+Skills: Copy paster
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Coding 
